@@ -16,11 +16,10 @@ body {
 
 p {
   background-color: #6b4848;
-  border: 2px solid black;
-  height: 150px;
+  border: 1px solid black;
+  height: 100px;
   margin: 5px;
-  padding:  10px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 
@@ -35,8 +34,8 @@ p {
   font-weight: bold;
   top: 0;
   right: 0;
-  height: 35px;
-  width: 120px;
+  height: 20px;
+  width: 100px;
   padding: 10px;
   font-family: serif;
   text-align: center;
@@ -50,22 +49,22 @@ p {
   position: absolute;
   right: 0;
   font-weight: bold;
-  height: 35px;
-  width: 120px;
+  height: 20px;
+  width: 100px;
   padding: 10px;
   font-family: serif;
   text-align: center;
 
 }
 #sushi {
- background-color: rgb(130, 130, 151);
- color: black;
+  background-color: rgb(130, 130, 151);
+  color: black;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
-  width: 120px;
+  height: 20px;
+  width: 100px;
   padding: 10px;
   text-align: center;
   font-family: serif;
